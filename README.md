@@ -6,7 +6,7 @@ LIRI can take the following commands followed by a user input.
 
 - concert-this "band name"
 
-![Alt text](Screenshots/liri1.jpg)
+![Alt text](liri1.jpg)
 
 - spotify-this-song "song name"
 
