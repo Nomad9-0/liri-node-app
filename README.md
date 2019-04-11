@@ -5,7 +5,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 LIRI can take the following commands followed by a user input.
 
 - concert-this "band name"
-![Alt text](Screenshots/liri1.jpg?raw=true)
+
+![Alt text](Screenshots/liri1.jpg)
 
 - spotify-this-song "song name"
 
