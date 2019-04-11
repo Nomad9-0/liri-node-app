@@ -5,7 +5,7 @@ function movieThis(userQuery) {
   this.userQuery = userQuery;
 
   if (userQuery == "") {
-    userQuery = "avatar";
+    userQuery = "Black Hawk Down";
   }
 
   this.movieSearch = function() {
@@ -39,4 +39,6 @@ function movieThis(userQuery) {
       });
   };
 }
+
+//Export
 module.exports = movieThis;

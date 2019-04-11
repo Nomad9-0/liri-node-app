@@ -6,7 +6,6 @@ const chalk = require("chalk");
 
 function spotifySongSearch(userQuery) {
   this.userQuery = userQuery;
-
   this.songSearch = function() {
     spotify.search({ 
         type: "track", 
@@ -31,5 +30,5 @@ function spotifySongSearch(userQuery) {
     });
   };
 }
-
+//export
 module.exports = spotifySongSearch;

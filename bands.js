@@ -1,12 +1,12 @@
+//require
 var axios = require("axios");
 const chalk = require("chalk");
 var moment = require("moment");
 
 var BandsInTown = function(userQuery) {
   this.userQuery = userQuery;
-
   if (userQuery == "") {
-    userQuery = "cher";
+    userQuery = "Metallica";
   }
 
   var URL = "https://rest.bandsintown.com/artists/" + userQuery + "/events?app_id=codingbootcamp";
@@ -43,4 +43,6 @@ var BandsInTown = function(userQuery) {
       });
   };
 };
+
+//export
 module.exports = BandsInTown;
