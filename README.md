@@ -6,13 +6,19 @@ LIRI can take the following commands followed by a user input.
 
 - concert-this "band name"
 
-![Alt text](liri1.jpg)
+![BandsInTown](screenshots/liri1.jpg)
 
 - spotify-this-song "song name"
 
+![Spotify](screenshots/liri2.jpg)
+
 - movie-this "movie title"
 
+![Movie](screenshots/liri3.jpg)
+
 - do-what-it-says
+
+![Default](screenshots/liri4.jpg)
 
 
 
