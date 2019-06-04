@@ -20,5 +20,9 @@ LIRI can take the following commands followed by a user input.
 
 ![Default](screenshots/liri4.jpg)
 
+## Technologies
+- Node
+- JavaScript
+- MySQL
 
 
