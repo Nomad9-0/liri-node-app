@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Nomad9-0/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "dotenv": "^7.0.0",
     "fs": "0.0.1-security",
